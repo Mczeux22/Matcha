@@ -1,0 +1,16 @@
+# Environnement virtuel
+venv/
+
+# Fichiers Python bytecode
+__pycache__/
+*.pyc
+
+# Fichiers de config
+.env
+
+# SQLite DB locale (si utilisée pour test)
+*.sqlite3
+*.db
+
+# Logs éventuels
+*.log
